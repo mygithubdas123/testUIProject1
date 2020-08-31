@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="RestAssuredAPITest" verbose="1">
+	<test name="Sanity Test">
+	<parameter name = "BROWSER" value="FFox"/>
+		<classes>
+			<class name="com.uitest.test.GoolgeSearchTest"/>
+		</classes>
+	</test>
+</suite>
