@@ -6,4 +6,5 @@
 			<class name="com.uitest.test.GoolgeSearchTest"/>
 		</classes>
 	</test>
+	
 </suite>
